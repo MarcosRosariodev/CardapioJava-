@@ -27,11 +27,13 @@ $ cd crud-java-back
 
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
 
-<img width="300px" src="./.github/instalar-deps.png">
+<img width="92" alt="executar" src="https://github.com/MarcosRosariodev/CardapioJava-/assets/159193425/04bb268f-3b79-40bf-9571-b64e8450bc77">
+
 
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
 
-<img width="300px" src="./.github/executar.png">
+<img width="501" alt="instalar-deps" src="https://github.com/MarcosRosariodev/CardapioJava-/assets/159193425/3f51f19a-7b2e-469b-a553-e29218da010c">
+
 
 <h2 id="related">🫂 Integração com Frontend</h2>
 
